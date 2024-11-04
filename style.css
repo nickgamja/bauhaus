@@ -1,0 +1,370 @@
+@font-face {
+    font-family: 'SOGANGUNIVERSITYTTF';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2312-1@1.1/SOGANGUNIVERSITYTTF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    }
+    *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    
+    }
+
+    .block01, .block02, .block03, .block04, .block05, .block06, .block07, .block08, .block09, .block10, .block11, .block12, .block13,
+    .block14, .block15, .block16, .block17, .block18, .block19, .block20, .block21, .block22, .block23{
+        background-color: black;
+        background-repeat: no-repeat;
+    }
+    .block01{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg01.png);
+        
+    }
+    .block02{
+        width: 1920px;
+        height: 800px;
+        background-position-x: center;
+        background-position-y: 128px;
+        background-image: url(bg/bg02.png);
+    }
+    .block03{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg03.png);
+    }
+    .block04{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg04.png);
+        background-position-x: 841px;
+    }
+    .block05{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg05.png);
+        background-position-x: 489px;
+        background-position-y: 219px;
+    }
+    .block06{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg06.png);
+        background-position-x: 290px;
+    }
+    .block07{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg07.png);
+        background-position-x: 589px;
+        background-position-y: 151px;
+    }
+    .block08{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg08.png);
+        background-position-x: 76px;
+        background-position-y:  116px;
+    }
+    .block09{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg09.png);
+        background-position-x: 960px;
+    }
+    .block10{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg10.png);
+        background-position-x: 181px;
+    }
+    .block11{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg11.png);
+        background-position-x: 817px;
+    }
+    .block12{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg12.png);
+    }
+    .block13{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg13.png);
+        background-position-x: 423px;
+        background-position-y: 124px;
+    }
+    .block14{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg14.png);
+        background-position-x: 627px;
+        background-position-y: 128px;
+    }
+    .block15{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg15.png);
+        background-position-x: 1048px;
+        background-position-y: 249px;
+    }
+    .block16{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg16.png);
+        background-position-x: 513px;
+        background-position-y: 49px;
+    }
+    .block17{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg17.png);
+    }
+    .block18{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg18.png);
+        background-position-x: 960px;
+        background-position-y: 97px;
+    }
+    .block19{
+        width: 1920px;
+        height: 800px;
+    }
+    .block20{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg20.png);
+        background-position-x: 843px;
+        background-position-y: 152px;
+    }
+    .block21{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg21.png);
+        background-position-x: 685px;
+    }
+    .block22{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg22.png);
+    }
+    .block23{
+        width: 1920px;
+        height: 800px;
+        background-image: url(bg/bg23.png);
+        background-position-x: 712px;
+        background-position-y: 141px;
+    }
+
+    .word01, .word02, .word03, .word04, .word05,.word06, .word07, .word08, .word09, .word10, .word11, 
+    .word12, .word13, .word14, .word15, .word16, .word17, .word18, .word19, .word20, .word21, .word22, .word23{
+        color: white;
+        position: absolute;
+        font-family: 'SOGANGUNIVERSITYTTF';
+    }
+    .word01{
+        width: 976px;
+        height: 187px;
+        top: 1907px;
+        left: 472px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word02{
+        width: 968px;
+        height: 307px;
+        top: 2648px;
+        left: 476px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word03{
+        width: 969px;
+        height: 190px;
+        top: 4303px;
+        left: 476px;
+        font-size: 27px;
+        line-height: 40px;
+    }
+    .word04{
+        width: 427px;
+        height: 267px;
+        top: 5065px;
+        left: 486px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word05{
+        width: 550px;
+        height: 147px;
+        top: 5925px;
+        left: 904px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word06{
+        width: 874px;
+        height: 227px;
+        top: 6685px;
+        left: 523px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word07{
+        width: 650px;
+        height: 388px;
+        top: 7404px;
+        left: 635px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .word08{
+        width: 850px;
+        height: 347px;
+        top: 8377px;
+        left: 535px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word09{
+        width: 493px;
+        height: 57px;
+        top: 9170px;
+        left: 718px;
+        font-size: 50px;
+        line-height: 40px;
+    }
+    .word10{
+        width: 720px;
+        height: 187px;
+        top: 10171px;
+        left: 709px;
+        font-size: 24px;
+        line-height: 40px;
+        text-align: right;
+    }
+    .word11{
+        width: 481px;
+        height: 166px;
+        top: 10542px;
+        left: 585px;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .word12{
+        width: 658px;
+        height: 227px;
+        top: 11473px;
+        left: 487px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word13{
+        width: 894px;
+        height: 303px;
+        top: 12464px;
+        left: 513px;
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .word14{
+        width: 959px;
+        height: 147px;
+        top: 13125px;
+        left: 481px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word15{
+        width: 603px;
+        height: 387px;
+        top: 13853px;
+        left: 484px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word16{
+        width: 994px;
+        height: 227px;
+        top: 14658px;
+        left: 463px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word17{
+        width: 446px;
+        height: 117px;
+        top: 15540px;
+        left: 515px;
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .word18{
+        width: 979px;
+        height: 307px;
+        top: 16455px;
+        left: 471px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .word19{
+        width: 958px;
+        height: 227px;
+        top: 17318px;
+        left: 481px;
+        font-size: 24px;
+        line-height: 40px;
+        }
+        .word20{
+            width: 225px;
+            height: 89px;
+            top: 17650px;
+            left: 481px;
+            font-size:80px;
+        }
+        .word21{
+            width: 169px;
+            height: 34px;
+            top: 17695px;
+            left: 716px;
+            font-size:30px;
+        }
+        .word22{
+            width: 351px;
+            height: 256px;
+            top: 18121px;
+            left: 481px;
+            font-size:15px;
+            line-height: 30px;
+        }
+        .word23{
+            width: 95px;
+            height: 16px;
+            top: 18369px;
+            left: 1350px;
+            font-size:15px;
+        }
+        a > .top{
+            background-color: white;
+            font-size: 16px;
+            font-family: 'SOGANGUNIVERSITYTTF';
+            font-weight: 100;
+            letter-spacing: -0.5px;
+            text-decoration: none;
+            color: black;
+            width: 60px;
+            padding: 17px 0px;
+            border-radius: 50px;
+            text-align: center;
+            text-transform: uppercase;
+            position: fixed;
+            z-index: 100;
+            display: block;
+            bottom: 40px;
+            right: 40px;
+        }
